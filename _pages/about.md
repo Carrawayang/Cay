@@ -18,6 +18,7 @@ redirect_from:
 - Jul. 2018 - Sep. 2022, Bachelor Degree of Computer Science, Henan Normal University
 
 ## Updates and News
+- [2022/07/15] [Other mirror links on this site](https://cay-one.vercel.app/)
 
 - [2022/07/01] Graduated!
 
