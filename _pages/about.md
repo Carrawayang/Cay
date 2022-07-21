@@ -56,6 +56,9 @@ Big data offline processing application technology and system implementation, De
 
 [Wine Evaluation Questions](https://github.com/Carrawayang/Carrawayang.github.io/blob/main/paper/2021cumcm.pdf)
 
+
+[Design and implementation of road condition monitoring system based on YOLO::Beamer](https://github.com/Carrawayang/Carrawayang.github.io/blob/main/paper/Design_and_implementation_of_road_condition_monitoring_system_based_on_YOLO.pdf)
+
 Skills
 ======
 * Programming: Java, Python, Latex, Matlab, C++

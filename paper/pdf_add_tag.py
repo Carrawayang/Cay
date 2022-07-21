@@ -55,7 +55,7 @@ def add_watermark(pdf_file_in, pdf_file_mark, pdf_file_out):
     pdf_output.write(open(pdf_file_out, 'wb'))
 
 if __name__ == '__main__':
-    pdf_file_in = './2021mcm.pdf'
-    pdf_file_out = './2021mcm1.pdf'
+    pdf_file_in = './Design_and_implementation_of_road_condition_monitoring_system_based_on_YOLO.pdf'
+    pdf_file_out = './Design_and_implementation_of_road_condition_monitoring_system_based_on_YOLO.pdf1.pdf'
     pdf_file_mark = create_watermark('Carrawayang@HTU')
     add_watermark(pdf_file_in, pdf_file_mark, pdf_file_out)
