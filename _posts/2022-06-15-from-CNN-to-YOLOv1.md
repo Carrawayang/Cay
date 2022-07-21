@@ -100,7 +100,7 @@ $$
 
 ![cnn14](../images/cnn14.png)
 
-![cnn15](D:\resentRes\Pytorch\Pytorch_from_scratch\img\cnn15.png)
+![cnn15](../images/cnn15.png)
 
 ![cnn16](../images/cnn16.png)
 
